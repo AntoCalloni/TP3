@@ -1,0 +1,63 @@
+[
+  {
+    "Nombre": "Excel Basico",
+    "Descripcion": "Todo Publico",
+    "FechasDictado": [
+      "2020-03-20T19:00:00",
+      "2020-03-27T19:00:00",
+      "2020-04-04T19:00:00"
+    ],
+    "Docentes": [
+      {
+        "Nombre": "JP Ferreyra",
+        "Dni": 20256965,
+        "Telefono": "3564585654",
+        "Email": "jpferreyra@gmail.com"
+      }
+    ],
+    "CupoMax": 10,
+    "CupoMin": 30,
+    "FechaLimite": "2020-03-15T00:00:00"
+  },
+  {
+    "Nombre": "Electricidad industrial",
+    "Descripcion": "Todo Publico",
+    "FechasDictado": [
+      "2020-04-10T20:30:00",
+      "2020-03-17T20:30:00",
+      "2020-04-24T20:30:00",
+      "2020-11-24T20:30:00"
+    ],
+    "Docentes": [
+      {
+        "Nombre": "Pedro Perez",
+        "Dni": 14589658,
+        "Telefono": "3564574585",
+        "Email": "pedroperez@gmail.com"
+      }
+    ],
+    "CupoMax": 5,
+    "CupoMin": 15,
+    "FechaLimite": "2020-04-05T00:00:00"
+  },
+  {
+    "Nombre": "Asistente Administrativo",
+    "Descripcion": "Todo Publico",
+    "FechasDictado": [
+      "2020-07-01T19:30:00",
+      "2020-07-07T19:30:00",
+      "2020-07-14T19:30:00"
+    ],
+    "Docentes": [
+      {
+        "Nombre": "Laura Alvarez",
+        "Dni": 28569856,
+        "Telefono": "3564857545",
+        "Email": "lauraalvarez@gmail.com"
+      }
+    ],
+    "CupoMax": 15,
+    "CupoMin": 40,
+    "FechaLimite": "2020-04-05T00:00:00"
+  }
+]

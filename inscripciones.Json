@@ -1,0 +1,59 @@
+[
+  {
+    "Curso": {
+      "Nombre": "Asistente Administrativo",
+      "Descripcion": "Todo Publico",
+      "FechasDictado": [
+        "2020-07-01T19:30:00",
+        "2020-07-07T19:30:00",
+        "2020-07-14T19:30:00"
+      ],
+      "Docentes": [
+        {
+          "Nombre": "Laura Alvarez",
+          "Dni": 28569856,
+          "Telefono": "3564857545",
+          "Email": "lauraalvarez@gmail.com"
+        }
+      ],
+      "CupoMax": 15,
+      "CupoMin": 40,
+      "FechaLimite": "2020-04-05T00:00:00"
+    },
+    "Persona": {
+      "Nombre": "Antonela Calloni",
+      "Dni": 42511259,
+      "Telefono": "3564565548",
+      "Email": "antocalloni@gmail.com"
+    }
+  },
+  {
+    "Curso": {
+      "Nombre": "Electricidad industrial",
+      "Descripcion": "Todo Publico",
+      "FechasDictado": [
+        "2020-04-10T20:30:00",
+        "2020-03-17T20:30:00",
+        "2020-04-24T20:30:00",
+        "2020-11-24T20:30:00"
+      ],
+      "Docentes": [
+        {
+          "Nombre": "Pedro Perez",
+          "Dni": 14589658,
+          "Telefono": "3564574585",
+          "Email": "pedroperez@gmail.com"
+        }
+      ],
+      "CupoMax": 5,
+      "CupoMin": 15,
+      "FechaLimite": "2020-04-05T00:00:00"
+    },
+    "Persona": {
+      "Nombre": "Antonela Calloni",
+      "Dni": 42511259,
+      "Telefono": "3564565548",
+      "Email": "antocalloni@gmail.com"
+    }
+  }
+]
